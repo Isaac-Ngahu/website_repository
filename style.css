@@ -78,9 +78,10 @@ p{
     background-color:black;
 }
 .info_aboutme image{
-    height:100px;
-    margin
+    height:300px;
+    position:absolute;
     padding:100px 0 100px;
+    background-color: transparent;
 
 }
 .text h2{
