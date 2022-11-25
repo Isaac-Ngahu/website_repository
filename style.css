@@ -28,7 +28,10 @@ nav{
     padding-top: 30px;
     padding-left: 5%;
     padding-right:5%
-
-   
+}
+.log{
+    color:red;
+    font-size:large;
+    letter-spacing: 1-px;
 }
 
