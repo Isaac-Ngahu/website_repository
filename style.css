@@ -15,7 +15,8 @@ h2{
     width:auto;
     background-size:cover;
     background-position:center;
-    background-color:black;
+    background-color:aquamarine;
+    background-image: url(./wb-image.jpg);
 
 }
 .menu img{
