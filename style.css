@@ -82,6 +82,8 @@ p{
 div.info_aboutme image{
     height:100px;
     width:100px;
+    border-left: 2px;
+    border-right:10px;
 }
 div.info_aboutme p{
     text-emphasis-color: blue;
