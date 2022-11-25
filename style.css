@@ -2,6 +2,7 @@
     padding:0;
     margin:0;
     font-family: Arial, Helvetica, sans-serif;
+    box-sizing; border-box;
    
     
 }
@@ -10,7 +11,7 @@ h2{
     color: brown;
 }
 .menu{
-    height:auto;
+    height:90vh;
     width:auto;
     background-size:auto;
     background-position:center;
