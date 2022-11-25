@@ -78,14 +78,15 @@ p{
     background-colour:black;
     
 }
-.aboutme image{
+.info_aboutme image{
     height:100px;
-    max-width: 100px;
+    margin
     padding:100px 0 100px;
 
 }
 h5{
     background-color: blueviolet;
+    font-size:5em;
 }
 .text{
     width:600px;
@@ -97,5 +98,6 @@ h5{
     max-width:100%;
     display:flex;
     align-items:center;
+    justify-content: center;
     
 }
