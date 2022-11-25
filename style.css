@@ -51,10 +51,12 @@ nav ul li a:hover{
 h1{
     color:white;
     font-size:70px;
+    margin:10px 0px 10px;
 }
 h3{
     color:white;
     font-size:50px;
+    margin-bottom:55px;
 }
 h4{
     color:white;
