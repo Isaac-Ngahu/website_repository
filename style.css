@@ -84,7 +84,15 @@ p{
     padding:100px 0 100px;
 
 }
+h5{
+    background-color: blueviolet;
+}
 .text{
     width:600px;
     background-color: black;
+}
+.info_aboume{
+    margin:2px;
+    width:1000px;
+    
 }
