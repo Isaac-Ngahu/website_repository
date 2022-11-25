@@ -100,7 +100,7 @@ h5{
     width:600px;
     background-color: black;
 }
-.info_aboume{
+.info_aboutme{
     margin:0 auto;
     width:1000px;
     max-width:100%;
@@ -108,4 +108,10 @@ h5{
     align-items:center;
     justify-content: center;
     
+}
+.text p{
+    letter-spacing:2px;
+    color:beige;
+    margin-bottom:40px;
+    font-size:2em;
 }
