@@ -77,10 +77,12 @@ p{
     width:100%
     padding:100px 0px;
     background-colour:black;
+    
 }
-.aboutme img{
-    width:400px;
-    height:auto;
-    background-color:black;
-    background-image:url(./about-me-stock-photo_csp32110446.jpg);
+div.info_aboutme image{
+    height:100px;
+    width:100px;
+}
+div.info_aboutme p{
+    text-emphasis-color: blue;
 }
