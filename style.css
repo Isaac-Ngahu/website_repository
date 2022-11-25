@@ -118,6 +118,17 @@ h5{
     margin-bottom:40px;
     font-size:1em;
 }
+.serve{
+    background-color: black;
+    width:100%;
+    padding:100px 0;
+}
+.heading{
+    text-align: center;
+    color:olive;
+    font-size: 75px;
+    text-transform:capitalize;
+}
 .broader ol li{
     text-align: center;
     letter-spacing: 2px;
