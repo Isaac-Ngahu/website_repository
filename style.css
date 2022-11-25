@@ -73,18 +73,17 @@ p{
     font-size:20px;
 }
 .aboutme{
-    height:auto;
     width:100%
     padding:100px 0px;
     background-colour:black;
     
 }
-div.info_aboutme image{
+.aboutme image{
     height:100px;
-    width:100px;
-    border-left: 2px;
-    border-right:10px;
+    max-width: 100px;
+    padding:100px 0 100px;
+
 }
-div.info_aboutme p{
-    text-emphasis-color: blue;
+.text{
+    width:600px;
 }
