@@ -5,7 +5,15 @@
     box-sizing: border-box;
 }
 .menu{
-    text-align:center;
-    float: left;
-    background-image:url(./img/web-image.jpg);
+    height:auto;
+    width:auto;
+background-image:url(.\Users\USER\Pictures\wb-image.jpg.jpg);
+}
+nav{
+    float:left;
+    align-items: center;
+    text-size-adjust:initial;
+    padding-top: 10px;
+    padding-left: 5%;
+    padding-right:5%;
 }
