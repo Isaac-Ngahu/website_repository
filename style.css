@@ -34,4 +34,9 @@ nav{
     font-size:large;
     letter-spacing: 1-px;
 }
+nav ul li{
+    list-style-type: none;
+    display:inline-block;
+    padding:15px 20px;
+}
 
