@@ -83,11 +83,18 @@ p{
     padding:100px 0 100px;
 
 }
+.text h2{
+    color:aquamarine;
+    font-size:7em;
+    text-transform:capitalize;
+    margin-bottom: 15px;
+
+}
 h5{
     background-color: blueviolet;
     font-size:5em;
     text-transform: capitalize;
-    margin-bottom: 15px;
+   
 }
 .text{
     width:600px;
