@@ -43,9 +43,21 @@ nav ul li a:hover{
     color:red;
     transition: .5s;
 }
-h1,
-h3,
- h4{
-color:aqua;
+.info{
+    position:absolute;
+    top:30%;
+    right:10%
+}
+h1{
+    color:white;
+    font-size:70px;
+}
+h3{
+    color:white;
+    font-size:50px;
+}
+h4{
+    color:white;
+    font-size:30px;
 }
 
