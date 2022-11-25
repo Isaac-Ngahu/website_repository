@@ -129,8 +129,13 @@ h5{
     font-size: 75px;
     text-transform:capitalize;
 }
+.broad h3{
+    color:beige;
+    text-align:justify;
+    font-size:40px;
+}
 .broader ol li{
-    text-align: center;
+    text-align: justify;
     letter-spacing: 2px;
     color:brown;
 }
