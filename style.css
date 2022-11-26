@@ -142,10 +142,10 @@ h5{
     overflow: hidden;
     width:340px;
     position:relative;
-    background-color: black;
+    background-color:red;
     height:350px;
     margin:20px;
     padding:20px 35px;
     border-radius:18px;
-    
+
 }
