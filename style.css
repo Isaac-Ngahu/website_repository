@@ -194,14 +194,14 @@ text-decoration:none;
     margin-bottom:30px;
 }
 
-.handle1 i{
+.socials i{
     text-align:justify;
     font-size:60px;
     color:black;
-    display:flex;
-    font-weight: bold;
+    display:block;
+    
 }
-.handle1 p{
+.socials p{
     color:blueviolet;
     position:relative;
 }
