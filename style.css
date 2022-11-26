@@ -216,8 +216,9 @@ display:flex
     width:45px;
     height:45px;
     display:flex;
-    background:#f9004d;
+    background:#333;
     align-items: center;
     border-radius: 20%;
     margin:10px 10px;
+    color:white;
 }
