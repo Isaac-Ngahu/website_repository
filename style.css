@@ -177,7 +177,7 @@ text-decoration:none;
     transition: .4s;
     cursor:pointer;
 
-}
+}:
 .socials{
     justify-content: center;
     background-color:black;
@@ -190,11 +190,18 @@ text-decoration:none;
     font-weight:bolder;
     font-size:30px;
 }
+.handle i{
+    background-color: aquamarine;
+    height:50px;
+    width:fit-content;
+    
+
+}
 .handle1 i{
     text-align:justify;
     font-size:40px;
     display:list-item;
-    color:aqua;
+    color:white;
     
 
 }
