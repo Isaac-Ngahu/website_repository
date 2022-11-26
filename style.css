@@ -163,14 +163,11 @@ h5{
     color:white;
 }
 .broader a{
-    position:relative;
+    display:block;
     
 }
 .broader a:hover{
     color:green;
     transition: .4s;
 
-}
-.broader ol{
- font-size:15px;
 }
