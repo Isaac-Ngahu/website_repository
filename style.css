@@ -134,7 +134,7 @@ h5{
 .broad {
      justify-content:center;
      min-height:350px;
-     align-items:center;
+     float:left;
      display:flex;
 }
 .broader ol li{
