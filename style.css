@@ -175,5 +175,12 @@ text-decoration:none;
 .broader #press:hover{
     color:green;
     transition: .4s;
+    cursor:pointer;
+
+}
+.socials{
+    justify-content: center;
+    background-color:skyblue ;
+    
 
 }
