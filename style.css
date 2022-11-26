@@ -162,13 +162,17 @@ h5{
     text-align:center;
     font-size:60px;
     display:block;
-    color:red;
+    color:white;
 }
-.broader a{
+.broader #press{
     display:block;
-    
+    padding: 10px 30px;
+    border-radius: 35px;
+font-weight:bold;
+background-color: blueviolet;
+text-decoration:none;
 }
-.broader a:hover{
+.broader #press:hover{
     color:green;
     transition: .4s;
 
