@@ -198,7 +198,7 @@ text-decoration:none;
     text-align:justify;
     font-size:40px;
     display:flex;
-    color:white;
+    background-color: blueviolet;
 }
 .handle1 p{
     color:blueviolet;
