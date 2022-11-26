@@ -147,12 +147,13 @@ h5{
     text-align: center;
     overflow: hidden;
     width:340px;
+    padding:20px 35px;
     position:relative;
+    border-radius:20px;
     background-color:red;
     height:250px;
     margin:15px
-    padding:20px 35px;
-    border-radius:20px;
+    
     
 
 }
@@ -160,7 +161,7 @@ h5{
     text-align:center;
     font-size:60px;
     display:block;
-    color:white;
+    color:red;
 }
 .broader a{
     display:block;
