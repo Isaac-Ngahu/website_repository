@@ -210,7 +210,14 @@ footer{
 
 }
 .social-media{
-background-color: antiquewhite;
-height:70px;
-width:auto;
+display:flex
+}
+.social-media a{
+    width:45px;
+    height:45px;
+    display:flex;
+    background:#f9004d;
+    align-items: center;
+    border-radius: 40%;
+    margin:20px 10px;
 }
