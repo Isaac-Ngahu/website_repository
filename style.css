@@ -205,4 +205,12 @@ footer{
     background:#191919;
     display:block;
     position:relative;
+    align-items:center;
+    justify-content:baseline;
+
+}
+.social-media{
+background-color: antiquewhite;
+height:70px;
+width:auto;
 }
