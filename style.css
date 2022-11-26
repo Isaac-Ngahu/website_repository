@@ -199,3 +199,10 @@ text-decoration:none;
     color:blueviolet;
     position:relative;
 }
+footer{
+    width:100%;
+    height:350px;
+    background:#191919;
+    display:block;
+    position:relative;
+}
