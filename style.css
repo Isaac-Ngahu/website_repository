@@ -218,6 +218,6 @@ display:flex
     display:flex;
     background:#f9004d;
     align-items: center;
-    border-radius: 40%;
-    margin:20px 10px;
+    border-radius: 20%;
+    margin:10px 10px;
 }
