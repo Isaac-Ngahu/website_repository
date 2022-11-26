@@ -131,10 +131,11 @@ h5{
 }
 
 
-.broad h3{
-    color:beige;
-    text-align:justify;
-    font-size:30px;
+.broad {
+     justify-content:center;
+     min-height:350px;
+     align-items:center;
+     display:flex;
 }
 .broader ol li{
     text-align: justify;
