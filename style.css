@@ -160,7 +160,7 @@ h5{
     text-align:center;
     font-size:60px;
     display:block;
-    color:red;
+    color:white;
 }
 .broader a{
     position:relative;
@@ -172,8 +172,5 @@ h5{
 
 }
 .broader ol{
-    color:darkblue;
-    font-size:15px;
-    background-color: red;
-
+ font-size:15px;
 }
