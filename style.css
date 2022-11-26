@@ -196,9 +196,10 @@ text-decoration:none;
 
 .handle1 i{
     text-align:justify;
-    font-size:40px;
+    font-size:60px;
+    color:black;
     display:flex;
-    background-color: blueviolet;
+    font-weight: bold;
 }
 .handle1 p{
     color:blueviolet;
