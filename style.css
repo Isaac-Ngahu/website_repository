@@ -140,6 +140,13 @@ h5{
      align-items:center;
      display:flex;
 }
+.broad i{
+     text-align:center;
+     font-size:60px;
+     display:block;
+     color:white;
+
+}
 .broader{
     text-align: center;
     overflow: hidden;
@@ -163,7 +170,7 @@ h5{
 
 }
 .broader ol{
-    color:cadetblue;
+    color:darkblue;
     font-size:15px;
-    
+
 }
