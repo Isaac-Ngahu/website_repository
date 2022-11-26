@@ -193,12 +193,12 @@ text-decoration:none;
 .handle1 i{
     text-align:justify;
     font-size:40px;
-    display:block;
-    color:white;
-    position:fixed;
+    display:list-item;
+    color:aqua;
+    
 
 }
 .handle1 p{
     color:white;
-    position:inherit;
+    position:relative;
 }
